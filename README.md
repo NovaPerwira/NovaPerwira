@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [NAMA LENGKAP KAMU] 👋</h1>
+<h1 align="center">Hi, I'm Nova 👋</h1>
 <h3 align="center">🚀 Web Developer | Informatics Student</h3>
 
 <div align="center">
@@ -46,8 +46,8 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME_GITHUB_ANDA]/[USERNAME_GITHUB_ANDA]/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME_GITHUB_ANDA]/[USERNAME_GITHUB_ANDA]/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/[USERNAME_GITHUB_ANDA]/[USERNAME_GITHUB_ANDA]/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NovaPerwira/NovaPerwira/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NovaPerwira/NovaPerwira/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NovaPerwira/NovaPerwira/output/pacman-contribution-graph.svg">
   </picture>
 </div>
