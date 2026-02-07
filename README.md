@@ -42,7 +42,7 @@
 
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=NovaPerwira&theme=react&layout=compact&v=1" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.vercel.app/?user=NovaPerwira&theme=react&layout=compact" alt="GitHub Streak" />
   </a>
   <img src="https://github-profile-trophy.vercel.app?username=NovaPerwira&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
