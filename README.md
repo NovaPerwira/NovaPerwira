@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Nova 👋</h1>
-<h3 align="center">🚀 Web Developer | Informatics Student</h3>
+<h1 align="center">Hi, I'm Nova Perwira👋</h1>
+<h3 align="center">🚀 Web Developer | Jasa Digital UMKM</h3>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
